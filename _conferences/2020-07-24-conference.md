@@ -2,7 +2,7 @@
 title: "Creating a Character in Yucatec Maya Language Theatre"
 collection: conferences
 type: "talks"
-permalink: /talks/2020-07-24-conference
+permalink: /conferences/2020-07-24-conference
 venue: "Association for Theatre in Higher Education (ATHE) Annual Conference"
 date: 2020-07-24
 location: "Zoom"
