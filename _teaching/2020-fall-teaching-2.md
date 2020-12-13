@@ -43,6 +43,3 @@ Course Components
 *SA 2: Play Annotations and Dramaturgical First Steps.* For this assignment, you will annotate ten pages of the play *Mestiza Power!* by Concepción León Mora (translated by Virginia Grise). Annotations will be followed up by creating a glossary (in the style of a dramaturgical packet) of the terms found in the script. 
 
 *SA 3: Style Analysis.* This informal writing assignment asks that you analyze the style in the play *Straight White Men* by Young Jean Lee.
-
-Heading 3
-======

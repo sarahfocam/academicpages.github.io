@@ -41,5 +41,3 @@ Course Components
 
  *Syllabus Option:* Are you a pedagogy-focused student? Design a syllabus at the any level (secondary, undergraduate, graduate, etc.) related to the course topics. Syllabi should include course description, learning objectives/outcomes, assignment descriptions, approximate class schedule with readings and assignments. 
 
-Heading 3
-======
