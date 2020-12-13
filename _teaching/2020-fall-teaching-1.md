@@ -23,8 +23,9 @@ By the end of the course, students will be able to:
 - design a workshop or masterclass in your specific area of concentration using the tools of epic theatre and/or Theatre of the Oppressed
 - Write an academic paper citing primary and secondary sources on a topic related to Brecht, Boal, and/or theatre for social change; or use primary and secondary sources to inform a project related to Brecht and Boal. 
 
-Heading 2
+Course Components
 ======
+**Theatre in Society – Personal Artistic Manifesto.** This text/sketch/doodle will express your goals for theatre in your community. What issues are affecting individuals where you live or work? How can theatre empower audience members to expand their horizons – whether through education, protest, social disobedience, or entertainment? Your personal manifesto is a completion-only grade. You do the assignment; you get the points. No word count/page minimum, I highly encourage you to take out a piece of computer paper and handwrite/sketch/paint/doodle your manifesto! We will set up a virtual class art gallery (just for the viewing by members of our course) of our manifesto creations. 
 
 Heading 3
 ======
