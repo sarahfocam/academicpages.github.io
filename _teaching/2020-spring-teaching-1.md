@@ -1,7 +1,7 @@
 ---
 title: "THE 504: Foundations of the American Theatre"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "University of Idaho, Department of Theatre Arts"
 date: 2020-01-13
