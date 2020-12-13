@@ -239,7 +239,7 @@ defaults:
   # _conferences
   - scope:
       path: ""
-      type: conferences
+      type: talk
     values:
       layout: talk
       author_profile: true
