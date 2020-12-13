@@ -10,7 +10,7 @@ location: "Moscow,ID, USA"
 
 This course in play analysis is open to any student, regardless of major, and focuses on the analysis of play texts predominantly for practice and criticism. Students in the course will develop skills the necessary skills in practice and criticism in order to refine their work as theatre artists. Students will also be exposed to literary theory (more specifically, theory for theatre) to enhance their understanding of the scholarship within theatre and performance studies. Students will have the opportunity to apply their skills in practice, criticism, and theory through class discussions, assignments, and projects. The course texts will focus on plays written/produced within the American theatre in last twenty years. 
 
-[Download syllabus here](http://sarahfocam.github.io/files/the504brechtandboalf20.pdf)
+[Download syllabus here](http://sarahfocam.github.io/files/the371playanalysisf20.pdf)
 
 
 Learning Outcomes
