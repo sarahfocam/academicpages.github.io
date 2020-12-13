@@ -13,6 +13,7 @@ This seminar focuses on two of the key figures in the theatre for social change 
 
 Heading 1
 ======
+[Download paper here](http://academicpages.github.io/files/the504brechtandboal.pdf)
 
 Heading 2
 ======
