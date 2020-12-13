@@ -16,27 +16,24 @@ Education
 * Ph.D in Theatre History, Literature, and Criticism (Folklore Minor) Indiana University, 2018
   Ph.D. Certificate in Latin American and Caribbean Studies, Indiana University, 2018. 
 
-Work experience
+Academic Work Experience
 ======
 * Fall 2019 - Present: Assistant Professor - Theatre History, Literature, and Criticism
   * University of Idaho 
   * Department of Theatre
   * Courses Taught: THE 522 Dramaturgical Acts, THE 468 Theatre History 1, THE 504 Foundations of the American Theatre, THE 504 Brecht and Boal, THE 371 Play Analysis
-  * Supervisor: Professor Git
+  * Supervisor: Robert Caisley
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018 - Spring 2019: Assistant Professor of Theatre and Oral Communication
+  * Arkansas State University - Campus Querétaro, México
+  * Courses Taught: THEA2503 Fine Arts Theatre, COMS 1203 Oral Communication, ENG 2013 World Literature Since 1660. 
+  * Supervisor: Dr. Susan Swan
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English (Native speaker)
+* Yucatec Maya (Advanced)
+* Spanish (Advanced)
 
 Publications
 ======
