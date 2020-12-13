@@ -10,10 +10,14 @@ location: "Moscow,ID, USA"
 
 This seminar focuses on two of the key figures in the theatre for social change movement in the twentieth century: Bertolt Brecht and Augusto Boal. The course examines the aesthetics, dramatic/theoretical texts, and rehearsal/working practices of Brecht and Boal and how they built upon and departed from previous movements in the theatre. We will also look to how these practitioners have inspired artists across the globe in the late twentieth and early twenty-first centuries. 
 
+[Download syllabus here](http://academicpages.github.io/files/the504brechtandboal.pdf)
 
-Heading 1
+
+Learning Outcomes
 ======
-[Download paper here](http://academicpages.github.io/files/the504brechtandboal.pdf)
+By the end of the course, students will be able to: 
+-----
+-discuss the theories and aesthetic practices that informed the careers of Brecht and Boal
 
 Heading 2
 ======
