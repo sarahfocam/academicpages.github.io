@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Sarah Alice Campbell"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sarah Alice Campbell"
+description              : &description "Assistant Professor of Theatre History, Theory, and Criticism"
+url                      : https://sarahfocam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sarahfocam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Sarah Alice Campbell"
+  avatar           : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/29064197_10105441954810860_5703123056841428490_o.jpg?_nc_cat=109&ccb=2&_nc_sid=174925&_nc_ohc=Ng6fJi9-DhQAX9_IIf6&_nc_ht=scontent-sea1-1.xx&oh=a60cea4b67d6a9b4ccc73a9a52e47c6e&oe=5FFB064A"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
