@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 **B.A. in Theatre**, University of Kentucky, 2010.
+
 **M.A. in Theatre - Emphasis in Directing**, University of Nebraska Omaha, 2013.
+
 **Ph.D in Theatre History, Literature, and Criticism (Folklore Minor)** Indiana University, 2018
+
   **Ph.D. Certificate** in Latin American and Caribbean Studies, Indiana University, 2018. 
 
 Academic Work Experience
