@@ -34,11 +34,12 @@ Course Components
 **Community Research Project.** With this project, you will respond to a series of questions about the place in which you live (or what you consider to be your artistic home); the social, economic, political, or other issues in your community (ex - homelessness, police brutality, lack of internet access, ICE raids, food deserts, COVID-19 hotspots, etc.); the community organizations that are already in place in your community that help with this issue (if present); an action plan that you could take to address this issue (on a non-theatre level, perhaps with legislation, protest, etc.); an action plan that you could take to address this issue (with theatre). It is important that this project, at this phase be research and planning ONLY. If you have not yet been a vital part of social justice or organizing in the community, the project might inadvertently cause harm. The goal for the project is to get to know your community better. 
 
 **Paper/Project/Syllabus** – Choose your favorite below! 
-*Paper Option:* Write an 8-10-page paper (due by the end of the semester). The topic is completely up to you (within the scope of the class) but could focus on a play, a series of play texts, a playwright, or a theatrical event.
 
-*Project Option:* Let your imagination run wild! Have you always wanted to design the set for Brecht’s Baal? Perhaps you are really into the work of Augusto Boal and would like to design a workshop of theatre of the oppressed in your classroom or community. Project should be approved by me by midterm. We will work together to design a rubric for your specific project. 
+    *Paper Option:* Write an 8-10-page paper (due by the end of the semester). The topic is completely up to you (within the scope of the class) but could focus on a play, a series of play texts, a playwright, or a theatrical event.
 
-*Syllabus Option:* Are you a pedagogy-focused student? Design a syllabus at the any level (secondary, undergraduate, graduate, etc.) related to the course topics. Syllabi should include course description, learning objectives/outcomes, assignment descriptions, approximate class schedule with readings and assignments. 
+    *Project Option:* Let your imagination run wild! Have you always wanted to design the set for Brecht’s Baal? Perhaps you are really into the work of Augusto Boal and would like to design a workshop of theatre of the oppressed in your classroom or community. Project should be approved by me by midterm. We will work together to design a rubric for your specific project. 
+
+    *Syllabus Option:* Are you a pedagogy-focused student? Design a syllabus at the any level (secondary, undergraduate, graduate, etc.) related to the course topics. Syllabi should include course description, learning objectives/outcomes, assignment descriptions, approximate class schedule with readings and assignments. 
 
 Heading 3
 ======
