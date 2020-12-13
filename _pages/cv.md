@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Theatre, University of Kentucky, 2010
+* M.A. in Theatre - Emphasis in Directing, University of Nebraska Omaha, 2013
+* Ph.D in Theatre History, Literature, and Criticism, Indiana University, 2018
 
 Work experience
 ======
