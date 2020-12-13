@@ -35,11 +35,11 @@ Course Components
 
 **Paper/Project/Syllabus** – Choose your favorite below! 
 
-    *Paper Option:* Write an 8-10-page paper (due by the end of the semester). The topic is completely up to you (within the scope of the class) but could focus on a play, a series of play texts, a playwright, or a theatrical event.
+*Paper Option:* Write an 8-10-page paper (due by the end of the semester). The topic is completely up to you (within the scope of the class) but could focus on a play, a series of play texts, a playwright, or a theatrical event.
 
-    *Project Option:* Let your imagination run wild! Have you always wanted to design the set for Brecht’s Baal? Perhaps you are really into the work of Augusto Boal and would like to design a workshop of theatre of the oppressed in your classroom or community. Project should be approved by me by midterm. We will work together to design a rubric for your specific project. 
+*Project Option:* Let your imagination run wild! Have you always wanted to design the set for Brecht’s Baal? Perhaps you are really into the work of Augusto Boal and would like to design a workshop of theatre of the oppressed in your classroom or community. Project should be approved by me by midterm. We will work together to design a rubric for your specific project. 
 
-    *Syllabus Option:* Are you a pedagogy-focused student? Design a syllabus at the any level (secondary, undergraduate, graduate, etc.) related to the course topics. Syllabi should include course description, learning objectives/outcomes, assignment descriptions, approximate class schedule with readings and assignments. 
+ *Syllabus Option:* Are you a pedagogy-focused student? Design a syllabus at the any level (secondary, undergraduate, graduate, etc.) related to the course topics. Syllabi should include course description, learning objectives/outcomes, assignment descriptions, approximate class schedule with readings and assignments. 
 
 Heading 3
 ======
