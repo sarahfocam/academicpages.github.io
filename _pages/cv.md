@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.A. in Theatre, University of Kentucky, 2010
-* M.A. in Theatre - Emphasis in Directing, University of Nebraska Omaha, 2013
-* Ph.D in Theatre History, Literature, and Criticism, Indiana University, 2018
+* B.A. in Theatre, University of Kentucky, 2010.
+* M.A. in Theatre - Emphasis in Directing, University of Nebraska Omaha, 2013.
+* Ph.D in Theatre History, Literature, and Criticism (Folklore Minor) Indiana University, 2018
+  Ph.D. Certificate in Latin American and Caribbean Studies, Indiana University, 2018. 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Fall 2019 - Present: Assistant Professor - Theatre History, Literature, and Criticism
+  * University of Idaho 
+  * Department of Theatre
+  * Courses Taught: THE 522 Dramaturgical Acts, THE 468 Theatre History 1, THE 504 Foundations of the American Theatre, THE 504 Brecht and Boal, THE 371 Play Analysis
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
