@@ -16,8 +16,12 @@ This seminar focuses on two of the key figures in the theatre for social change 
 Learning Outcomes
 ======
 By the end of the course, students will be able to: 
------
--discuss the theories and aesthetic practices that informed the careers of Brecht and Boal
+- discuss the theories and aesthetic practices that informed the careers of Brecht and Boal
+- apply the techniques of epic theatre to the rehearsal room
+- use the techniques of Theatre of the Oppressed in the classroom, rehearsal room, community spaces, etc.
+- discuss the influence that both Brecht and Boal have had in the world of theatre
+- design a workshop or masterclass in your specific area of concentration using the tools of epic theatre and/or Theatre of the Oppressed
+- Write an academic paper citing primary and secondary sources on a topic related to Brecht, Boal, and/or theatre for social change; or use primary and secondary sources to inform a project related to Brecht and Boal. 
 
 Heading 2
 ======
