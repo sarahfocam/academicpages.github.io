@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sarah Alice Campbell"
+  name             : "Dr. Sarah Alice Campbell"
   avatar           : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/29064197_10105441954810860_5703123056841428490_o.jpg?_nc_cat=109&ccb=2&_nc_sid=174925&_nc_ohc=Ng6fJi9-DhQAX9_IIf6&_nc_ht=scontent-sea1-1.xx&oh=a60cea4b67d6a9b4ccc73a9a52e47c6e&oe=5FFB064A"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Sarah Alice Campbell is an Assistant Professor of Theatre History, Literature, and Criticism in the University of Idaho’s Theatre Arts Department. She holds a Ph.D. in Theatre and Drama with a minor in Folklore and a Ph.D. Certificate in Latin American and Caribbean Studies from Indiana University. She received her B.A. in Theatre from the University of Kentucky in Lexington, Kentucky and her M.A. in Theatre with an emphasis in Directing from the University of Nebraska Omaha. Prior to joining the faculty at University of Idaho, she taught in Querétaro, Mexico at Arkansas State University Campus Querétaro. She currently serves as the Secretary for the Mid-America Theatre Conference (MATC)."
+  location         : "Moscow, ID, USA"
+  employer         : "University of Idaho"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
