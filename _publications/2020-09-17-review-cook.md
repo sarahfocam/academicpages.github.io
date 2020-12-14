@@ -1,7 +1,7 @@
 ---
 title: "Review of Xurt’an The End of the World and Other Myths, Songs, Charms, and Chants by the Northern Lacondones of Naha’ by Suzanne Cook."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-09-17-review-cook
 excerpt: 'A review of Suzanne Cook's Xurt'an - The End of the World and Other Myths, Songs, Charms, and Chants by the Northern Lacondones of Naha.'
 date: 2020-09-17
 venue: 'Journal of Folklore Research Reviews'
