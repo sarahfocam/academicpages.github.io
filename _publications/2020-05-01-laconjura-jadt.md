@@ -2,7 +2,7 @@
 title: "La conjura de Xinum and Language Revitalization: Understanding Maya Agency through Theatre"
 collection: publications
 permalink: /publication/2020-05-01-laconjura-jadt
-excerpt: 'This paper explores the art world of Yucatec Maya Language Theatre in Mexico's Yucatán Peninsula.'
+excerpt: 'This paper explores the art world of Yucatec Maya Language Theatre in Mexico's Yucatan Peninsula.'
 date: 2020-05-01
 venue: 'Journal of American Drama and Theatre'
 paperurl: 'http://sarahfocam.github.io/files/laconjuradexinumjadts20.pdf'
