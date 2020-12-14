@@ -43,9 +43,9 @@ Supervisor: Dr. Susan Swan
   
 Fellowships
 ======
-**Center for Digital Inquiry and Learning Faculty Development Fellowship, University of Idaho.** University of Idaho. Fall 2020. 
+**Center for Digital Inquiry and Learning Faculty Development Fellowship, University of Idaho.** University of Idaho. Fall 2020. See more at the [CDILSite](cdil.lib.uidaho.edu).
 
-**Blazing Trails Faculty Seed Grant.** University of Idaho. Summer 2021 (originally summer 2020). Award for travel to develop general education study abroad course at the University of Idaho. Course will be on the Arts and Cultures of Mexico and will run Summer 2022.
+**Blazing Trails Faculty Seed Grant.** University of Idaho. Summer 2021 (originally summer 2020). Award for travel to develop general education study abroad course at the University of Idaho. Course will be on the Arts and Cultures of Mexico and will run Summer 2022. Read the news release [here](https://www.uidaho.edu/news/news-articles/kudos/2019-fall/121319-facultyinternationalseedgrantrecipients).
 
 Languages
 ======
