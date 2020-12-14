@@ -41,6 +41,12 @@ Courses Taught:
 
 Supervisor: Dr. Susan Swan
   
+Fellowships
+======
+**Center for Digital Inquiry and Learning Faculty Development Fellowship, University of Idaho.** University of Idaho. Fall 2020. 
+
+**Blazing Trails Faculty Seed Grant.** University of Idaho. Summer 2021 (originally summer 2020). Award for travel to develop general education study abroad course at the University of Idaho. Course will be on the Arts and Cultures of Mexico and will run Summer 2022.
+
 Languages
 ======
 English (Native speaker)
@@ -69,7 +75,7 @@ Teaching
   
 Service and leadership
 ======
-* *Secretary*, Mid-America Theatre Conference March 2020-Present. 
+* *Secretary*, Mid-America Theatre Conference, March 2020-Present. 
 * *Facilitator*, Theatre for Social Change Committee, Department of Theatre Arts, University of Idaho. 2020-Present. 
 * *Facilitator*, Committee for New Season Selection Process, Department of Theatre Arts, University of Idaho. 2020-Present. 
 * *Facilitator*, Committee for New Rehearsal Guidelines Document, Department of Theatre Arts, University of Idaho. 2020-Present. 
