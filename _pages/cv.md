@@ -69,4 +69,15 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* *Secretary*, Mid-America Theatre Conference March 2020-Present. 
+* *Facilitator*, Theatre for Social Change Committee, Department of Theatre Arts, University of Idaho. 2020-Present. 
+* *Facilitator*, Committee for New Season Selection Process, Department of Theatre Arts, University of Idaho. 2020-Present. 
+* *Facilitator*, Committee for New Rehearsal Guidelines Document, Department of Theatre Arts, University of Idaho. 2020-Present. 
+* *Chair*, Grants and Fellowships Committee. Department of Theatre Arts, University of Idaho. 2019-Present.  
+
+
+Professional Affiliations
+======
+* Mid-America Theatre Conference 
+* American Society for Theatre Research 
+* Association for Theatre in Higher Education 
