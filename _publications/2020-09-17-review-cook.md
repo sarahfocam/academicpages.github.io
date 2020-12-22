@@ -8,7 +8,6 @@ venue: 'Journal of Folklore Research Reviews'
 paperurl: 'https://jfr.sitehost.iu.edu/review.php?id=2498'
 citation: 'Campbell, Sarah Alice. (2020). &quot;Review of Xurtan: The End of the World and Other Myths, Songs, Charms, and Chants by the Northern Lacondones of Naha by Suzanne Cook.&quot; <i>Journal of Folklore Research Reviews</i>. https://jfr.sitehost.iu.edu/review.php?id=2498.'
 ---
-
 A review of Suzanne Cook's Xurtan The End of the World and Other Myths, Songs, Charms, and Chants by the Northern Lacondones of Naha.
 
 [Read the review here](https://jfr.sitehost.iu.edu/review.php?id=2498)
