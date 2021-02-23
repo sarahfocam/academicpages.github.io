@@ -1,10 +1,10 @@
 ---
-title: "&quot;La conjura de Xinum and Language Revitalization: Understanding Maya Agency through Theatre.&quot"
+title: " La conjura de Xinum and Language Revitalization: Understanding Maya Agency through Theatre."
 collection: publications
 permalink: /publications/2020-05-01-laconjura-jadt
-excerpt: "This paper explores the art world of Yucatec Maya Language Theatre in Mexico's Yucatan Peninsula."
+excerpt: "This paper explores the art world of Yucatec Maya Language Theatre in the Yucatan Peninsula."
 date: 2020-05-01
-venue: "<i>Journal of American Drama and Theatre</ i>"
+venue: "Journal of American Drama and Theatre"
 paperurl: "http://sarahfocam.github.io/files/laconjuradexinumjadts20.pdf"
 citation: "Campbell, Sarah Alice. (2020). &quot;La conjura de Xinum and Language Revitalization Understanding Maya Agency Through Theatre.&quot; <i>Journal of American Drama and Theatre</i>. 32(2)."
 ---
