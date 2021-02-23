@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Sarah Alice Campbell"
-  avatar           : "<img src="sarahheadshot.jpg" />"
+  avatar           : "<img src="sarahheadshot.jpg" />
   bio              : "Sarah Alice Campbell is an Assistant Professor of Theatre History, Literature, and Criticism in the University of Idaho’s Theatre Arts Department."
   location         : "Moscow, ID, USA"
   employer         : "University of Idaho"
