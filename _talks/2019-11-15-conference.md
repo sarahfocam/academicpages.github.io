@@ -2,9 +2,9 @@
 title: "¿Quien cuidará a los niños?: Staging Contemporary Mexican Politics in La gran familia"
 collection: talks
 type: "Conference Panel Presentation"
-permalink: /talks/2020-07-24-conference
+permalink: /talks/2019-11-15-conference
 venue: "Pacific Ancient and Modern Languages Association Annual Conference"
-date: 2020-07-24
+date: 2019-11-15
 location: "San Diego, CA"
 ---
 

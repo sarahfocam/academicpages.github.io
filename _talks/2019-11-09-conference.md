@@ -2,9 +2,9 @@
 title: "The Monster in the Jungle: the Xtáabay as Monstrous Woman"
 collection: talks
 type: "Working Group"
-permalink: /talks/2020-07-24-conference
+permalink: /talks/2019-11-09-conference
 venue: "American Society for Theatre Research"
-date: 2020-07-24
+date: 2019-11-09
 location: "Arlington, VA"
 ---
 
