@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page - a space where I will share past, present, and upcoming projects, papers, productions, and pedagogical resources. I am currently an Assistant Professor of Theatre History, Literature, and Criticism at the University of Idaho where I teach courses in the undergraduate and graduate program. Together with my colleague, Robert Caisley, I oversee the MFA in Theatre Pedagogy track for our dynamic distance-based program. 
+Welcome to my page - a space where I will share past, present, and upcoming projects, papers, productions, and pedagogical resources. I am currently an Assistant Professor of Theatre History, Literature, and Criticism at the University of Idaho where I teach courses in the undergraduate and graduate program and oversee the MFA in Theatre Pedagogy track for our dynamic distance-based program. 
 
 Current Research 
 ======
-I am currently at work on my first book project, which will focus on theatre and performance in the Yucatec Maya Language. The research is based on fieldwork conducted in México's Yucatán peninsula from 2015-2017.  
+- I am currently at work on my first book project, which will focus on theatre and performance in the Yucatec Maya Language. The research is based on fieldwork conducted in México's Yucatán peninsula from 2015-2017.  
 
-I am working with co-authors Dr. Chelsea Hackett and Edber Dzidz Yam on a digital humanities project on Pan-Maya Theatre Aesthetics. The goal of the project is to create a repository for the sharing of the work of Maya theatre artists across time and space. 
+- I am working with co-authors Dr. Chelsea Hackett and Edber Dzidz Yam on a digital humanities project on Pan-Maya Theatre Aesthetics. The goal of the project is to create a repository for the sharing of the work of Maya theatre artists across time and space. 
 
 Papers in Progress
 ======
