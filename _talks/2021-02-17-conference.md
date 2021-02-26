@@ -8,6 +8,9 @@ date: 2021-02-17
 location: "Zoom"
 ---
 
+This workshop was given as part of the Kennedy Center American College Theatre Festival 53. 
+
+
 Workshop Description
 ---
 
