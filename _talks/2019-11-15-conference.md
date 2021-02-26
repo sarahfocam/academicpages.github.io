@@ -8,6 +8,9 @@ date: 2019-11-15
 location: "San Diego, CA"
 ---
 
-In this paper, I examine the way in which the playwrights have staged the action of the play, *La Gran Familia*, to reflect contemporary crises within the Mexican government and how a figure such as the title character, Mama Rosa, could be created by social, religious, and political forces in modern Mexico.
-
 This paper was delivered as part of Drama and Society's Theater Reflecting the State of the Nation panel. See schedule [here](https://pamla.ballastacademic.com/Webforms/Schedule.aspx).
+
+Abstract
+---
+
+In this paper, I examine the way in which the playwrights have staged the action of the play, *La Gran Familia*, to reflect contemporary crises within the Mexican government and how a figure such as the title character, Mama Rosa, could be created by social, religious, and political forces in modern Mexico.
