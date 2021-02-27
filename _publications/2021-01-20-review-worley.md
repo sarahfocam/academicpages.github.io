@@ -12,4 +12,3 @@ A review of Paul M. Worley and Rita M. Palacios's <i>Unwriting Maya Literature: 
 
 [Read the review here](http://sarahfocam.github.io/files/reviewofworley21.pdf)
 
-Recommended citation: Campbell, Sarah Alice. (2020). "Review of <i>Unwriting Maya Literature: Ts'íib as Recorded Knowledge<i> by Paul M. Worley and Rita M. Palacios." <i>Bulletin of Latin American Research BLAR</i>. http://dx.doi.org/10.1111/blar.13228.
