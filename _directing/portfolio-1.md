@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Haven by Ian Paul Messersmith"
+excerpt: "A New Play Workshop and World Premiere Production of The Haven by Ian Paul Messersmith<br/><img src='/images/thehavenposter.png'>"
 collection: portfolio
 ---
 
