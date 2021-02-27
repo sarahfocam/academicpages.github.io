@@ -5,6 +5,9 @@ collection: directing
 
 ---
 
+*A Zoom Workshop Reading, as part of the First Bite New Play Series at the University of Idaho*
+February 5-7, 2021
+
 Director's Note
 ---
 
