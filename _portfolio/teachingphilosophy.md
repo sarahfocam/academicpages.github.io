@@ -3,8 +3,8 @@ title: "Statement of Teaching Philosophy"
 excerpt: "Through my seven years of teaching at the university level at various institutions in the United States and in Mexico, I have developed a teaching philosophy which values the contributions of the individual student, honors their personal lfie experiences as valid sources of expertise, and recognizes the power in diversity."
 collection: portfolio
 ---
-
-
+by Sarah Alice Campbell
+---
 
 Through my seven years of teaching at the university level at various institutions in the United States and in Mexico, I have developed a teaching philosophy which values the contributions of the individual student, honors their personal life experiences as valid sources of expertise, and recognizes the power in diversity. My teaching is informed by my research’s emphasis on intercultural and interdisciplinary collaboration and is rooted in the work of Augusto Boal.  
 
