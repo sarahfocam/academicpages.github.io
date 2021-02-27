@@ -2,7 +2,6 @@
 title: "The Haven by Ian Paul Messersmith"
 excerpt: "A New Play Workshop and World Premiere Production of The Haven by Ian Paul Messersmith<br/><img src='/images/thehavenposter.png'>"
 collection: directing
-permalink: /directing/
 
 ---
 
