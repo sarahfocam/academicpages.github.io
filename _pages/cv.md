@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
----
+----
 **B.A. in Theatre**, University of Kentucky, 2010.
 
 **M.A. in Theatre - Emphasis in Directing**, University of Nebraska Omaha, 2013.
