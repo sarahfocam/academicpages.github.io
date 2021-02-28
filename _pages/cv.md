@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 **B.A. in Theatre**, University of Kentucky, 2010.
 
 **M.A. in Theatre - Emphasis in Directing**, University of Nebraska Omaha, 2013.
@@ -20,7 +20,7 @@ Education
   **Ph.D. Certificate** in Latin American and Caribbean Studies, Indiana University, 2018. 
 
 Academic Work Experience
-======
+---
 **Fall 2019 - Present: Assistant Professor - Theatre History, Literature, and Criticism.** University of Idaho. Department of Theatre Arts.
 
 Courses Taught: 
@@ -42,13 +42,13 @@ Courses Taught:
 Supervisor: Dr. Susan Swan
   
 Fellowships
-======
+---
 **Center for Digital Inquiry and Learning Faculty Development Fellowship, University of Idaho.** University of Idaho. Fall 2020. See more at the [CDILSite](cdil.lib.uidaho.edu).
 
 **Blazing Trails Faculty Seed Grant.** University of Idaho. Summer 2021 (originally summer 2020). Award for travel to develop general education study abroad course at the University of Idaho. Course will be on the Arts and Cultures of Mexico and will run Summer 2022. Read the news release [here](https://www.uidaho.edu/news/news-articles/kudos/2019-fall/121319-facultyinternationalseedgrantrecipients).
 
 Languages
-======
+---
 English (Native speaker)
 
 Yucatec Maya (Advanced)
@@ -56,25 +56,25 @@ Yucatec Maya (Advanced)
 Spanish (Advanced)
 
 Publications
-======
+---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
+---
 * *Secretary*, Mid-America Theatre Conference, March 2020-Present. 
 * *Facilitator*, Theatre for Social Change Committee, Department of Theatre Arts, University of Idaho. 2020-Present. 
 * *Facilitator*, Committee for New Season Selection Process, Department of Theatre Arts, University of Idaho. 2020-Present. 
@@ -83,7 +83,7 @@ Service and leadership
 
 
 Professional Affiliations
-======
+---
 * Mid-America Theatre Conference 
 * American Society for Theatre Research 
 * Association for Theatre in Higher Education 
