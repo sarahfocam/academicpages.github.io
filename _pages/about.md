@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Theatre Historian, Educator, and Ethnographer
-===
 
+
+Theatre Historian, Educator, and Ethnographer
+---
 Welcome to my page - a space where I will share past, present, and upcoming projects, papers, productions, and pedagogical resources. I am currently an Assistant Professor of Theatre History, Literature, and Criticism at the University of Idaho where I teach courses in the undergraduate and graduate program and oversee the MFA in Theatre Pedagogy track for our dynamic distance-based program. 
 
 Current Research 
@@ -21,7 +22,6 @@ Current Research
 
 Papers in Progress
 ---
-
 1. "Playing Desdemona: Intentionality, Resistance, and Subverting the Binary in Atabal Creación Artística's *Yo no quiero ser Desdémona*. Submitted for consideration for publication. 
 1. "
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
