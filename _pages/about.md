@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*Theatre Historian, Educator, and Ethnographer*
 
 
-
-Theatre Historian, Educator, and Ethnographer
----
 Welcome to my page - a space where I will share past, present, and upcoming projects, papers, productions, and pedagogical resources. I am currently an Assistant Professor of Theatre History, Literature, and Criticism at the University of Idaho where I teach courses in the undergraduate and graduate program and oversee the MFA in Theatre Pedagogy track for our dynamic distance-based program. 
 
 Current Research 
