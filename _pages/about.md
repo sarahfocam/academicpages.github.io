@@ -20,5 +20,5 @@ Current Research
 
 Papers in Progress
 ---
-1. "Playing Desdemona: Intentionality, Resistance, and Subverting the Binary in Atabal Creación Artística's *Yo no quiero ser Desdémona*. Submitted for consideration for publication. 
-1. "
+1. "Playing Desdemona: Intentionality, Resistance, and Subverting the Binary in Atabal Creación Artística's *Yo no quiero ser Desdémona*. 
+1. "The Xtáabay as Monstrous Woman: Gender in Maya Cultural Production in the Yucatán Peninsula." 
